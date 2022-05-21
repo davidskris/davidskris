@@ -1,6 +1,6 @@
 Olá, sou David
 
-Desenvolvo aplicativos e posso fazer várias funções através do meu app pessoal "MD Marcelo David".
+Estou desenvolvendo meu app, MD Marcelo David, que me permite ser um assistente pessoal para auxiliar em várias tarefas.
 
 www.marcelodavid.com
 
