@@ -1,6 +1,6 @@
 Olá, sou David
 
-Estou desenvolvendo o app MD Marcelo David para serviços de assistente pessoal e intermediador.
+Estou desenvolvendo o app M Marcelo David para serviços de assistente pessoal e intermediador.
 
 www.marcelodavid.com
 
